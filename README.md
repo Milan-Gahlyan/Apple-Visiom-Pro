@@ -17,7 +17,7 @@ This project is a clone of the Apple Vision Pro website, created as a personal p
 - GSAP (GreenSock Animation Platform)
 - Locomotive Scroll
 
-##Acknowledgements
+## Acknowledgements
 - Special thanks to Apple for the inspiration behind this project.
 - GSAP and Locomotive Scroll for their amazing libraries that made animations and scrolling effects possible.
 
