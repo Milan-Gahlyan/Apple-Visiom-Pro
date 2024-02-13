@@ -2,7 +2,7 @@
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
-  font-family: SF PRO DISPLAY;
+  font-family: 'Inter', sans-serif;
 }
 html,
 body {
@@ -44,7 +44,7 @@ body {
 }
 #page>video{
     height: 100%;
-    width: 75%;
+    width: 100%;
     object-fit: cover;
     position: absolute;
     left: 50%;
